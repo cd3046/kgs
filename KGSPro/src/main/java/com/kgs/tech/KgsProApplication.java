@@ -21,6 +21,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @SpringBootApplication
 @EnableTransactionManagement
 public class KgsProApplication {
+	
 
 	public static void main(String[] args) {
 		SpringApplication.run(KgsProApplication.class, args);
